@@ -53,7 +53,7 @@ git clone https://github.com/yourusername/chat-application.git
 2.	Navigate to the project directory:
  
 ```bash
-cd chat-application
+cd chat_room
 ```
 
 
